@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Controlador Pioneer DDJ-RXZ",
+      "price": 299.99,
+      "category": "Controladores",
+      "image": "https://m.media-amazon.com/images/I/91sohxAaDyL._AC_SX679_.jpg",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Auriculares DJ Sennheiser HD 25",
+      "price": 149.95,
+      "category": "Auriculares",
+      "image": "https://r2.gear4music.com/media/8/81991/1200/preview.jpg",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Altavoz JBL EON 715",
+      "price": 499.00,
+      "category": "Altavoces",
+      "image": "https://www.audioproperu.com/wp-content/uploads/2024/07/JBL-EON715-PAR.jpg",
+      "available": false
+    },
+    {
+    "id": 4,
+    "name": "Micrófono Shure SM58",
+    "price": 99.00,
+    "category": "Micrófonos",
+    "image": "https://musicasagt.com/cdn/shop/files/D_NQ_NP_635935-MLU70138572177_062023-O.webp?v=1709059731&width=823",
+    "available": true
+    },
+    {
+      "id": 5,
+      "name": "Denon DJ SC5000",
+      "price": 2999.00,
+      "category": "Platos",
+      "image": "https://djexpressions.net/wp-content/uploads/2017/01/denon_dj_sc5000_01.jpg",
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "USB Pioneer",
+      "price": 79.99,
+      "category": "Accesorios",
+      "image": "https://loopstore.com.co/wp-content/uploads/2022/02/PIONEER-USB-1.jpg",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Estuche para auriculares",
+      "price": 30.00,
+      "category": "Accesorios",
+      "image": "https://www.pioneerdj.com/product-images/1744/0eca8b81-5f20-4858-9092-8795dd84e73f/hdj-hc02_3.png",
+      "available": false
+    },
+    {
+      "id": 8,
+      "name": "Repuesto de Perillas universales para DJ",
+      "price": 10.00,
+      "category": "Accesorios",
+      "image": "https://m.media-amazon.com/images/I/51yLE2AkZ+L._AC_SX679_.jpg",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Denon DJ SC LIVE 4",
+      "price": 1300.00,
+      "category": "Controladores",
+      "image": "https://m.media-amazon.com/images/I/91kKb1pnJuL._AC_SY450_.jpg",
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Pioneer DJ DDJ-FLX10 Edición Limitada ",
+      "price": 1720.00,
+      "category": "Controladores",
+      "image": "https://m.media-amazon.com/images/I/81Z8pkkZSBL._AC_SY450_.jpg",
+      "available": false
+    },
+    {
+      "id": 11,
+      "name": "RANE SYSTEM ONE DJ ",
+      "price": 1329.00,
+      "category": "Controladores",
+      "image": "https://djlifemag.com/wp-content/uploads/2026/01/Rane-System-One-Right-Angle-HIRES-1024x576.jpeg",
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "Pioneer DJ HDJ-CUE1 ",
+      "price": 85.00,
+      "category": "Auriculares",
+      "image": "https://m.media-amazon.com/images/I/81KRgK0ziEL._AC_SY450_.jpg",
+      "available": true
+    },
+    {
+      "id": 13,
+      "name": "Syndesmos 2.4GHz Wireless  ",
+      "price": 85.00,
+      "category": "Auriculares",
+      "image": "https://m.media-amazon.com/images/I/719R2xWkrnL._AC_SY450_.jpg",
+      "available": true
+    },
+    {
+      "id": 14,
+      "name": "CCA CRA Auriculares - Monitor intrauditivo ",
+      "price": 20.00,
+      "category": "Auriculares",
+      "image": "https://m.media-amazon.com/images/I/71YCtKtoB3L._AC_SX466_.jpg",
+      "available": false
+    },
+    {
+      "id": 15,
+      "name": "PreSonus Eris Studio 8",
+      "price": 20.00,
+      "category": "Altavoces",
+      "image": "https://m.media-amazon.com/images/I/711szG8AyRL._AC_SX466_.jpg",
+      "available": true
+    },
+    {
+      "id": 16,
+      "name": "AYRA FIVE PRO / Monitor de estudio",
+      "price": 20.00,
+      "category": "Altavoces",
+      "image": "https://m.media-amazon.com/images/I/818tz+ceSJL._AC_SX466_.jpg",
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "CDJ NEXUS 2 PIONEER",
+      "price": 1800,
+      "category": "Platos",
+      "image": "https://m.media-amazon.com/images/I/71f98gCQY4L._AC_SX466_.jpg",
+      "available": true
+    },
+    {
+      "id": 18,
+      "name": "CDJ NEXUS 3000 PIONEER",
+      "price": 2400,
+      "category": "Platos",
+      "image": "https://m.media-amazon.com/images/I/71-p06N0B+L._AC_SX679_.jpg",
+      "available": true
+    },
+    {
+    "id": 19,
+    "name": "KIT MICROFONO RØDE NT1",
+    "price": 100.00,
+    "category": "Micrófonos",
+    "image": "https://m.media-amazon.com/images/I/71mmZOQPuNL._AC_SY450_.jpg",
+    "available": false
+    },
+    {
+    "id": 20,
+    "name": "PAQUETE PODCAST BM -800 ALSO GO",
+    "price": 42.00,
+    "category": "Micrófonos",
+    "image": "https://m.media-amazon.com/images/I/71FKTc8dFML._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "available": true
+    }
+    
+
+  ]
+}
